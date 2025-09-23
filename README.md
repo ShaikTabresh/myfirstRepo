@@ -1,2 +1,3 @@
 # myfirstRepo
-My first git repo to learn git
+My first image website
+
